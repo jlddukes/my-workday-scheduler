@@ -1,7 +1,7 @@
 # My Workday Scheduler
 
 ## Description
-Keep your day organized by writing down the tasks that are needed to be completed each day. Using your personal workday scheduler, you can list your tasks according to the time blocks and save your responses in each textbox. 
+Stay organized and manage your daily tasks effectively with the help of a personal workday scheduler. This scheduler allows you to list your tasks within designated time blocks and conveniently save your responses in each corresponding textbox. With this tool, you can ensure that you stay on top of your daily responsibilities and maximize your productivity.
 
 ## Installation
 N/A
@@ -12,6 +12,7 @@ Write your task in the textbook according to the specific hour block. You can sa
 ### Screenshot 
 
 ### Link 
+
 
 ## Credits
 N/A
